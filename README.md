@@ -6,4 +6,5 @@ Data preprocessing: The data will be cleaned and prepared for analysis. This may
 Model selection: Different machine learning algorithms will be selected and tested to find the best one for the task.
 Model training: The chosen algorithm will be trained on the training data using various techniques such as k-fold cross-validation.
 Model evaluation: The model will be evaluated on the test data to measure its performance and identify any areas for improvement.
-Model deployment: The final model will be deployed and used for classifying new Iris samples.
+Model deployment: The final model will be deployed and used for classifying new Iris samples
+Note the written program is in accordance with the csv data set that i have used from kaggle but in case of using new data set sone aspects of the code may vary
